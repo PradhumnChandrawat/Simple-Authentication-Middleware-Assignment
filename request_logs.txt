@@ -1,0 +1,4 @@
+Date: 17/5/2024, Time: 20:56 - Method: GET, URL: /logging-app, Duration: 3 ms
+Date: 17/5/2024, Time: 20:57 - Method: GET, URL: /logging-app, Duration: 1 ms
+Date: 17/5/2024, Time: 20:57 - Method: GET, URL: /logging-app, Duration: 0 ms
+Date: 17/5/2024, Time: 20:57 - Method: GET, URL: /logging-app, Duration: 1 ms
